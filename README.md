@@ -13,7 +13,7 @@ Para iniciarlo debes clonarlo o descargarlo 😊, no olvides correr el comando �
 npm install
 ```
 
-Ingresar en la consola `ng serve` para poner a correr el dev server. Navegart en `http://localhost:4200/`.
+Ingresar en la consola `ng serve` o `ng serve -o` para poner a correr el dev server, navegar en `http://localhost:4200/`.
 
 ## 🎨 Demo
 
